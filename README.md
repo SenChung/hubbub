@@ -1,4 +1,4 @@
-Hubbub
+Hubbub ====== by Sen Chung
 ======
 
 Issues get messy, Hubbub keeps you organized.
